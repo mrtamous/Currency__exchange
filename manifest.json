@@ -1,0 +1,11 @@
+{
+  "name": "Currency exchange",
+  "version": "1.0.0",
+  "description": "This is an Currency exchange extension by abo ramez",
+  "manifest_version": 3,
+  "author": "Mohammed Tamous",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "This is an Currency exchange"
+  }
+}
